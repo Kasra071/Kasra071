@@ -10,4 +10,4 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Kasra071
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kasra071&theme=dark&hide_border=true)](https://git.io/streak-stats)
